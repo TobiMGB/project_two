@@ -4,4 +4,4 @@ input 2
 input 3
 output 1
 output 2
-output 3
+output x
